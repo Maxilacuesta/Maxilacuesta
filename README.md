@@ -1,73 +1,36 @@
+<h3>Tecnologías que estoy aprendiendo / uso</h3>
 
-<!-- Sección de lenguajes de programación -->
-
-<h3>Lenguajes que estoy aprendiendo</h3>
-
-<div style="display: flex; gap: 30px; align-items: center; flex-wrap: wrap;">
+<div style="display: flex; gap: 25px; flex-wrap: wrap; align-items: center; justify-content: start;">
 
   <!-- Python -->
-  <div style="text-align: center;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="60" height="60">
-    <br>
-    <small>Aprendiendo</small>
-  </div>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="60" height="60">
 
   <!-- JavaScript -->
-  <div style="text-align: center;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="60" height="60">
-    <br>
-    <small>Aprendiendo</small>
-  </div>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="60" height="60">
 
   <!-- Java -->
-  <div style="text-align: center;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="60" height="60">
-    <br>
-    <small>Aprendiendo</small>
-  </div>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="60" height="60">
 
   <!-- MySQL -->
-  <div style="text-align: center;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="60" height="60">
-    <br>
-    <small>Aprendiendo</small>
-  </div>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="60" height="60">
 
-  <!-- Recomendados: C# -->
-  <div style="text-align: center;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="60" height="60">
-    <br>
-    <small>Aprendiendo</small>
-  </div>
+  <!-- C# -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="60" height="60">
 
-  <!-- Recomendados: Go -->
-  <div style="text-align: center;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="Go" width="60" height="60">
-    <br>
-    <small>Aprendiendo</small>
-  </div>
+  <!-- Go -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="Go" width="60" height="60">
 
-</div>
+  <!-- Rust -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="Rust" width="60" height="60">
 
-<hr>
-
-<h3>Lenguajes que tengo aprendidos</h3>
-
-<div style="display: flex; gap: 30px; align-items: center; flex-wrap: wrap;">
-
+  <!-- React -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="60" height="60">
+ <h3>Logrados</h3>
   <!-- HTML -->
-  <div style="text-align: center;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="60" height="60">
-    <br>
-    <small>Aprendidas</small>
-  </div>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="60" height="60">
 
   <!-- CSS -->
-  <div style="text-align: center;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="60" height="60">
-    <br>
-    <small>Aprendidas</small>
-  </div>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="60" height="60">
 
 </div>
 
