@@ -1,19 +1,59 @@
-## 🚀 Aprendiendo
 
-| Python | JavaScript | Java | MySQL | C# | Go | Rust | React | Vue | Node.js | .NET | Flutter | React Native | C++ | SQL |
-|:------:|:----------:|:----:|:-----:|:--:|:--:|:----:|:----:|:---:|:--------:|:---:|:-------:|:------------:|:--:|:---:|
-| ![Python](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg) | ![JavaScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg) | ![Java](https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg) | ![MySQL](https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg) | ![C#](https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg) | ![Rust](https://raw.githubusercontent.com/rust-lang/rust-artwork/master/logo/rust-logo-128x128.png) | ![React](https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg) | ![Vue](https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg) | ![Node.js](https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg) | ![DotNet](https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg) | ![Flutter](https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg) | ![React Native](https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg) | ![C++](https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg) | ![SQL](https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg) |
+
+
+# ¡Hola! Soy Maxi 👋 🚀
+
+<div align="center">
+  <!-- AQUÍ TU IMAGEN DE ANIME FAVORITA (Cambia el link por la que más te guste) -->
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2Y0YmZidm90b3F6cHh0cnd5N3I3bWR3bms1ZXNidXN4M3pxbnd6NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/X83Y7r03T6BnUJe741/giphy.gif" width="200" alt="Anime Dev"/>
+
+  <h3>"Programando ideas, diseñando interfaces."</h3>
+
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=Maxilacuesta&color=8b5cf6&style=flat-square&label=Vistas+al+Perfil" alt="Maxilacuesta" />
+  </p>
+</div>
 
 ---
 
-## ✅ Logrados
+### 💻 Sobre Mí
 
-| HTML | CSS |
-|:----:|:---:|
-| ![HTML](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg) | ![CSS](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg) |
+Soy un estudiante de programación enfocado en el desarrollo frontend y diseño de aplicaciones modernas. Me encanta el trabajo en equipo, meterle horas a proyectos creativos y resolver desafíos de código mientras escucho buena música. ¡Siempre buscando aprender algo nuevo!
 
+- 📍 Uruguay
+- ⚡ Intereses: Desarrollo de aplicaciones de escritorio (Electron), interfaces web modernas y automatización.
+- 🎮 En mis tiempos libres: Sobreviviendo y construyendo en mundos abiertos o disfrutando de una buena partida con amigos.
 
+---
 
+### 🛠️ Mis Tecnologías
 
+Tengo bases sólidas en tecnologías web y sigo expandiendo mi stack constantemente:
 
+<div align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+</div>
+
+#### 🎯 Próximamente / Aprendiendo:
+* 🗄️ Bases de datos en tiempo real (Firebase / Supabase)
+* 🚀 Frameworks modernos y despliegues automáticos
+
+---
+
+### 📈 Mis Estadísticas de GitHub
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Maxilacuesta&show_icons=true&theme=dark&background=0a0a0a&title_color=8b5cf6&icon_color=8b5cf6&text_color=fafafa&border_color=262626" alt="Estadísticas de GitHub" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maxilacuesta&layout=compact&theme=dark&background=0a0a0a&title_color=8b5cf6&text_color=fafafa&border_color=262626" alt="Lenguajes más usados" width="48%" />
+</div>
+
+---
+
+<div align="center">
+  <sub>Diseñado con 💜 por Maxi. ¡Gracias por pasarte!</sub>
+</div>
 
