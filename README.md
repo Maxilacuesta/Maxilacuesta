@@ -18,12 +18,11 @@
 
 ### 💻 Sobre Mí
 
-Soy un estudiante de programación enfocado en el desarrollo frontend y diseño de aplicaciones modernas. Me encanta el trabajo en equipo, meterle horas a proyectos creativos y resolver desafíos de código mientras escucho buena música. ¡Siempre buscando aprender algo nuevo!
+Soy un estudiante de programación enfocado en el desarrollo frontend y diseño de aplicaciones modernas. Me encanta el trabajo en equipo, meterle horas a proyectos creativos mientras escucho buena música. ¡Siempre buscando aprender algo nuevo!
 
 - 📍 Uruguay
-- ⚡ Intereses: Desarrollo de aplicaciones de escritorio (Electron), interfaces web modernas y automatización.
-- 🎮 En mis tiempos libres: Sobreviviendo y construyendo en mundos abiertos o disfrutando de una buena partida con amigos.
-
+- ⚡ Intereses: Desarrollo de aplicaciones de escritorio , interfaces web modernas y automatización.
+- 
 ---
 
 ### 🛠️ Mis Tecnologías
@@ -54,6 +53,6 @@ Tengo bases sólidas en tecnologías web y sigo expandiendo mi stack constanteme
 ---
 
 <div align="center">
-  <sub>Diseñado con 💜 por Maxi. ¡Gracias por pasarte!</sub>
+  <sub>Diseñado con 💜 . ¡Gracias por pasarte!</sub>
 </div>
 
