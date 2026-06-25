@@ -4,8 +4,8 @@
 # ¡Hola! Soy Maxi 👋 🚀
 
 <div align="center">
-  <!-- AQUÍ TU IMAGEN DE ANIME FAVORITA (Cambia el link por la que más te guste) -->
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2Y0YmZidm90b3F6cHh0cnd5N3I3bWR3bms1ZXNidXN4M3pxbnd6NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/X83Y7r03T6BnUJe741/giphy.gif" width="200" alt="Anime Dev"/>
+  <!-- GIF de Mushoku Tensei configurado -->
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbms1amZ5cmNidm1wN3g0b3M3YmdmNTA4Y2ZtYmZ6d3g0bnZidWphMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bIdMvSFcTEvIs/giphy.gif" width="280" alt="Mushoku Tensei Rudeus Magic"/>
 
   <h3>"Programando ideas, diseñando interfaces."</h3>
 
